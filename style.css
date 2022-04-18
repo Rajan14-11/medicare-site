@@ -86,12 +86,12 @@ footer h4{
     justify-content: center;
     list-style: none;
 text-decoration: none;
-margin: 2vw 5vw;
 flex-wrap: wrap;
 
 }
 footer img{
     width: 100px;
+    margin: 5px;
 }
 
 footer h3{
