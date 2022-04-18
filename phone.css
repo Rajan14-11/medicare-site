@@ -1,0 +1,33 @@
+
+
+    main{
+        justify-content: unset;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+    main .left{
+        padding: 2px;
+        width: 100vw;
+        text-align: center;
+    }
+
+    .left h2{
+        font-size: 15px;
+        margin-top: 6rem;
+    }
+    main .left h1{
+        font-size: 20px;
+    }
+    .left p{
+        font-size: 12px;
+        text-align: center;
+        width: 100vw;
+    }
+    .left button{
+    font-size: 12px;
+    text-overflow: ellipsis;
+    width: 160px;
+    height: 40px;
+    margin: 20px 50px;
+    padding: 2px;
+}
